@@ -1,0 +1,28 @@
+.logo{
+    color: darkblue;
+}
+.jumbotron{
+    background-image: url(./images/GrupoDinamo.png);
+    background-size: cover;
+    background-position: center;
+    height: 800px;
+    margin-bottom: 0;
+    border-radius: 0;
+    color: black;
+    text-shadow: 0 0 5px white;
+}
+h2{
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    margin-bottom: 0;
+}
+.nleft{
+    background-image: url(images/Imagen\ Experiencia.png);
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+}
+h3{
+    text-align: center;
+}
