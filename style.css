@@ -1,5 +1,5 @@
 .logo{
-    color: darkblue;
+    color: #063970;
 }
 .jumbotron{
     background-image: url(./images/GrupoDinamo.png);
@@ -11,8 +11,11 @@
     color: black;
     text-shadow: 0 0 5px white;
 }
+.Inicio{
+    color: black;
+}
 h2{
-    background-color: darkblue;
+    background-color: #063970;
     color: white;
     text-align: center;
     margin-bottom: 0;
@@ -25,4 +28,20 @@ h2{
 }
 h3{
     text-align: center;
+    color: black;
+}
+footer{
+    background-color: #063970;
+}
+footer h3{
+    color: white;
+}
+.nleftt{
+    text-align: center;
+}
+.nright{
+    text-align: center;
+}
+p{
+    color: white;
 }
