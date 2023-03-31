@@ -1,5 +1,7 @@
-.logo{
-    color: #063970;
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
 }
 .jumbotron{
     background-image: url(./images/GrupoDinamo.png);
@@ -44,4 +46,18 @@ footer h3{
 }
 p{
     color: white;
+}
+img{
+    width: 100%;
+}
+.row{
+    display: flex;
+    margin: 5px;
+}
+.column{
+    flex: 25%;
+    padding: 5px;
+}
+img{
+    border-radius: 20%;
 }
